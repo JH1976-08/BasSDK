@@ -1,0 +1,10 @@
+BladeAndSorcery_Data
+└── StreamingAssets
+    └── Mods
+        └── TriElementKatana
+            ├── Items
+            │   └── TriElementKatana.json
+            ├── Scripts
+            │   └── TriElementKatana.cs
+            └── Models
+                └── KatanaStraight.fbx
